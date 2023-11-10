@@ -1,0 +1,4 @@
+src/
+__pycache__/
+i2.db
+iwords bug.txt

@@ -1,0 +1,3 @@
+num_of_review_words_per_day: 30
+reset_database: no
+focus_mode: off
