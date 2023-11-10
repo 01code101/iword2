@@ -19,7 +19,7 @@ iword is basaed on Leitner system for learning English words effeciently.
             - if you know all the meaing of the you should click on YES otherwise NO
 
 
-#### instaliation:
+#### installiation:
  1- install pipenv.  
  2- run ***pipenv sync*** command in the app dir.
 
